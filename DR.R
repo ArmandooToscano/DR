@@ -5,3 +5,8 @@
 
 #TEAMONENE
 #Segunda prueba 
+rm(list=ls())
+library(tidyverse)
+library(rvest)
+library(httr)
+library(progress)
